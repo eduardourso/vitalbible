@@ -7,8 +7,8 @@ Vital Bible is simple and easy to use!
 _"And whatever you ask in prayer, you will receive, if you have faith."_
 (Matthew 21:22)
 
-[Link](url) and ![Image](src)
+[Download the app](https://itunes.apple.com/br/app/vital-bible/id1207951174?l=en&mt=8)
 
 ### Support or Contact
 
-Want to talk to us? Check out our [facebook page](https://help.github.com/categories/github-pages-basics/) or [contact support](vitalbible@gmail.com) and we’ll be prompt to help.
+Want to talk to us? Check out our [facebook page](https://help.github.com/categories/github-pages-basics/) or send us  an email via vitalbible@gmail.com and we’ll be prompt to help.
